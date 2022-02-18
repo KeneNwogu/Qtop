@@ -4,7 +4,7 @@ long_description = "Qt dependency for D-Analyst."
 
 setuptools.setup(
     name = "QPlug",
-    version = "1.0.0",
+    version = "1.0.1",
     author = "Agbakosi Adeoluwa(180 Memes), Diachronic Technologies",
     author_email = "adeoluwaagbakosi@gmail.com",
     description = "Qt dependency for D-Analyst ",
