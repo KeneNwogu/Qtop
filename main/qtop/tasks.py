@@ -4,8 +4,8 @@ import time
 import traceback
 import inspect
 import logging
-from Queue import Queue as tQueue
-from Queue import Empty
+from queue import Queue as tQueue
+from queue import Empty
 from threading import Thread
 from multiprocessing import Process, Queue as pQueue
 
