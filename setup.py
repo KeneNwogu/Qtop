@@ -4,7 +4,7 @@ long_description = "Qt dependency for D-Analyst."
 
 setuptools.setup(
     name = "QPlug",
-    version = "1.0.1",
+    version = "1.0.2",
     author = "Agbakosi Adeoluwa(180 Memes), Diachronic Technologies",
     author_email = "adeoluwaagbakosi@gmail.com",
     description = "Qt dependency for D-Analyst ",
@@ -21,5 +21,5 @@ setuptools.setup(
     package_dir = {"":"main"},
     packages=setuptools.find_packages(where="main"),
     python_requires=">=3.6",
-    install_requires = ['pyqt']
+    install_requires = []
 )
