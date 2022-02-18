@@ -3,7 +3,7 @@ import setuptools
 long_description = "Qt dependency for D-Analyst."
 
 setuptools.setup(
-    name = "Qtop",
+    name = "QPlug",
     version = "1.0.0",
     author = "Agbakosi Adeoluwa(180 Memes), Diachronic Technologies",
     author_email = "adeoluwaagbakosi@gmail.com",
