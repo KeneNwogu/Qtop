@@ -15,3 +15,14 @@ As a rule of thumb, changes are obvious fixes if they do not introduce any new f
 if you find a security vulnerability, do NOT open an issue. Email adeoluwaagbakosi@gmail.com instead.
 
 When filling an issue make sure to answer these five questions: 1. What version of this software an i using. 2. What operating system and processor architecture are you using? 3. What did you do? 4. What did you expect to see? 5. What did you see instead? General question should be sent to the maintaners instead of the issue tracker. Your question will be answered or you will be asked to open an issue if you found a bug.
+
+##### Usage
+-----------
+
+To install:
+
+pip install qplug
+
+To use:
+
+import qtop
